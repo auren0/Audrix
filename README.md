@@ -17,17 +17,9 @@
 
 ## Скриншоты
 
-Положите файлы в `docs/screenshots/`:
-
-- `main.png` — главное окно;
-- `settings.png` — настройки.
-
-Когда файлы будут на месте, раскомментируйте картинки:
-
-<!--
 ![Главное окно](docs/screenshots/main.png)
 ![Настройки](docs/screenshots/settings.png)
--->
+
 
 ## Сборка
 
